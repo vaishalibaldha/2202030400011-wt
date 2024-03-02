@@ -1,0 +1,15 @@
+{\rtf1\ansi\ansicpg1252\deff0\nouicompat\deflang1033{\fonttbl{\f0\fnil\fcharset0 Calibri;}}
+{\*\generator Riched20 10.0.22621}\viewkind4\uc1 
+\pard\sa200\sl276\slmult1\b\f0\fs72\lang9 STEPS FOR GIT\b0 :\par
+\fs48 STEP 1: Create a New Git Repository locally\par
+\fs32           i. Open a Terminal or Command Prompt.\par
+         ii. Navigate to the  desired directory where you want to create your new repository:- cd path/to/your/directory\par
+         iii. Initialize a new Git Repository with name as Enrollment No.:-   git init Enrollment No.\par
+\fs48 STEP 2: Create a New Folder\par
+\fs32          i. Create a new folder for your project(e.g:- "Assignment1" and "Assignment2"):-\par
+            mkdir assignment1\par
+            mkdir assignment2\par
+\fs48 STEP 3: Add and Commit changes\par
+     \fs32 i. add the new files or folders to the staging area:- git add.\par
+\fs40\par
+}

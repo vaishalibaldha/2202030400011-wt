@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    position: relative;
+    left: 550px;
+    height: 920px;
+    width: 490px;
+    border: 1px solid black;
+    background: url("img\ 13.jpg");
+    background-size: cover;
+
+}
+.getStart{
+    position: relative;
+    top: 680px;
+    left: 160px;
+    height: 55px;
+    width: 200px;
+    border-style: none;
+    background-color: brown;
+    border-radius: 15px;
+   
+    
+}
+.a{
+    font-size: 25px;
+    color: white;
+    text-decoration: none;
+}
